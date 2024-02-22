@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 <a href="https://freshidea.com/jonah/"></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>, I'm Induja Karalliyadda</h1>
+<h1 align="center">Hi<a href="https://freshidea.com/jonah/"></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>, I'm Induja Karalliyadda</h1>
 <h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=induja-karalliyadda" alt="induja-karalliyadda" /></a> </p>

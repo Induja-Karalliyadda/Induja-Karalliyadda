@@ -3,6 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=induja-karalliyadda" alt="induja-karalliyadda" /></a> </p>
 
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - 💬 Ask me about **Java, Spring, Angular, React, Node.js**
 
